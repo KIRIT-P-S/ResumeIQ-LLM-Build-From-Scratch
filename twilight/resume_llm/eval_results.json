@@ -1,0 +1,9 @@
+{
+    "baseline_eval_loss": 2.1799814701080322,
+    "epoch": 3.0,
+    "eval_loss": 1.5556203126907349,
+    "eval_model_preparation_time": 0.0117,
+    "eval_runtime": 1.3185,
+    "eval_samples_per_second": 33.372,
+    "eval_steps_per_second": 16.686
+}

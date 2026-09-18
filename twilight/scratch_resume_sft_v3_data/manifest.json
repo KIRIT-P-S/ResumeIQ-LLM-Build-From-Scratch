@@ -1,0 +1,38 @@
+{
+  "version": "resume_sft_v3",
+  "random_seed": 20260917,
+  "training_examples": 180660,
+  "training_source_counts": {
+    "squad_v2": 100000,
+    "public_synthetic": 68000,
+    "real_resume": 12660
+  },
+  "training_answerable": 150564,
+  "training_unanswerable": 30096,
+  "squad_training_examples": 100000,
+  "public_resume_training_examples": 68000,
+  "real_resume_unique_examples": 1055,
+  "real_resume_upsample_factor": 12,
+  "squad_validation_examples": 5000,
+  "public_validation_examples": 2400,
+  "real_validation_examples": 108,
+  "heldout_public_test_examples": 1600,
+  "positive_without_exact_evidence": 3732,
+  "squad_validation_overlap": 0,
+  "public_validation_overlap": 0,
+  "real_validation_overlap": 0,
+  "squad_dataset": "rajpurkar/squad_v2",
+  "squad_license": "CC BY-SA 4.0",
+  "max_context_tokens": 768,
+  "exact_training_examples": 176928,
+  "exact_training_source_counts": {
+    "squad_v2": 100000,
+    "public_synthetic": 68000,
+    "real_resume": 8928
+  },
+  "exact_training_answerable": 146832,
+  "exact_training_unanswerable": 30096,
+  "removed_nonextractive_repeated": 3732,
+  "removed_nonextractive_unique": 311,
+  "recommended_training_file": "train_exact.jsonl"
+}

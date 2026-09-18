@@ -1,0 +1,7 @@
+{
+  "torch": "2.10.0+cu128",
+  "numpy": "2.5.3",
+  "datasets": "4.8.5",
+  "tokenizers": "0.22.2",
+  "huggingface_hub": "0.36.2"
+}

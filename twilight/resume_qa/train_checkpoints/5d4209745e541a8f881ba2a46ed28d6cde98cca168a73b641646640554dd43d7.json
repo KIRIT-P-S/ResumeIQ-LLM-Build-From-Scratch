@@ -1,0 +1,34 @@
+[
+  {
+    "student_id": "Student_0215",
+    "source": "Student_0215/lalit's resume.pdf",
+    "context": "LalitKishore R.V \n Phone: +91 7339662994 | Email: lalitkishorelalitkishore250@gmail.com | \nLinkedIn \n \n \nEDUCATION \n \nSri Eshwar College of Engineering B.E CSE (AI&ML) CGPA: 6.7 (up to 4th sem) \n \n \n 2024-2028 \nPMG Matric Higher Secondary School HSC 76.6% 2023-2024 \nPMG Matric Higher Secondary School SSLC PASS 2021-2022 \n \nPROJECTS \n \n Scholarship Finder \nA full-stack web application to help students discover and manage scholarship opportunities. Features user authentication, admin \n dashboard for scholarship management, and a comprehensive search system. \n \n Technologies Used: Express.js, MongoDB, Mongoose, JWT, Bcrypt , CORS, React, React Router, Axios , Tailwind CSS, \nContext API \n \nCERTIFICATIONS \n \nCertified in Completion of C Programming Training IIT Bombay \nDesign Thinking - A Primer NPTEL \nProgramming In Java NPTEL \n ACHIEVEMENTS \n \nCodeChef -solved 30+ problems \nSkillRack -solved 349+ problems \n \nSKILLS \n \nProgramming Languages C | C++| Python | Java \n Web Technologies HTML | CSS | JavaScript \nTechnical Data Structures and Algorithms | OOPS \nTools Canva | GitHub | OpenAI",
+    "question": "What is Lalit's highest level of education completed?",
+    "answer": "B.E CSE (AI&ML)",
+    "evidence": "Sri Eshwar College of Engineering B.E CSE (AI&ML) CGPA: 6.7 (up to 4th sem)"
+  },
+  {
+    "student_id": "Student_0215",
+    "source": "Student_0215/lalit's resume.pdf",
+    "context": "LalitKishore R.V \n Phone: +91 7339662994 | Email: lalitkishorelalitkishore250@gmail.com | \nLinkedIn \n \n \nEDUCATION \n \nSri Eshwar College of Engineering B.E CSE (AI&ML) CGPA: 6.7 (up to 4th sem) \n \n \n 2024-2028 \nPMG Matric Higher Secondary School HSC 76.6% 2023-2024 \nPMG Matric Higher Secondary School SSLC PASS 2021-2022 \n \nPROJECTS \n \n Scholarship Finder \nA full-stack web application to help students discover and manage scholarship opportunities. Features user authentication, admin \n dashboard for scholarship management, and a comprehensive search system. \n \n Technologies Used: Express.js, MongoDB, Mongoose, JWT, Bcrypt , CORS, React, React Router, Axios , Tailwind CSS, \nContext API \n \nCERTIFICATIONS \n \nCertified in Completion of C Programming Training IIT Bombay \nDesign Thinking - A Primer NPTEL \nProgramming In Java NPTEL \n ACHIEVEMENTS \n \nCodeChef -solved 30+ problems \nSkillRack -solved 349+ problems \n \nSKILLS \n \nProgramming Languages C | C++| Python | Java \n Web Technologies HTML | CSS | JavaScript \nTechnical Data Structures and Algorithms | OOPS \nTools Canva | GitHub | OpenAI",
+    "question": "Which programming languages has Lalit mentioned as part of his skills?",
+    "answer": "C | C++ | Python | Java",
+    "evidence": "Programming Languages C | C++| Python | Java"
+  },
+  {
+    "student_id": "Student_0215",
+    "source": "Student_0215/lalit's resume.pdf",
+    "context": "LalitKishore R.V \n Phone: +91 7339662994 | Email: lalitkishorelalitkishore250@gmail.com | \nLinkedIn \n \n \nEDUCATION \n \nSri Eshwar College of Engineering B.E CSE (AI&ML) CGPA: 6.7 (up to 4th sem) \n \n \n 2024-2028 \nPMG Matric Higher Secondary School HSC 76.6% 2023-2024 \nPMG Matric Higher Secondary School SSLC PASS 2021-2022 \n \nPROJECTS \n \n Scholarship Finder \nA full-stack web application to help students discover and manage scholarship opportunities. Features user authentication, admin \n dashboard for scholarship management, and a comprehensive search system. \n \n Technologies Used: Express.js, MongoDB, Mongoose, JWT, Bcrypt , CORS, React, React Router, Axios , Tailwind CSS, \nContext API \n \nCERTIFICATIONS \n \nCertified in Completion of C Programming Training IIT Bombay \nDesign Thinking - A Primer NPTEL \nProgramming In Java NPTEL \n ACHIEVEMENTS \n \nCodeChef -solved 30+ problems \nSkillRack -solved 349+ problems \n \nSKILLS \n \nProgramming Languages C | C++| Python | Java \n Web Technologies HTML | CSS | JavaScript \nTechnical Data Structures and Algorithms | OOPS \nTools Canva | GitHub | OpenAI",
+    "question": "What is one of Lalit's projects related to scholarships?",
+    "answer": "Scholarship Finder",
+    "evidence": "Scholarship Finder \nA full-stack web application to help students discover and manage scholarship opportunities."
+  },
+  {
+    "student_id": "Student_0215",
+    "source": "Student_0215/lalit's resume.pdf",
+    "context": "LalitKishore R.V \n Phone: +91 7339662994 | Email: lalitkishorelalitkishore250@gmail.com | \nLinkedIn \n \n \nEDUCATION \n \nSri Eshwar College of Engineering B.E CSE (AI&ML) CGPA: 6.7 (up to 4th sem) \n \n \n 2024-2028 \nPMG Matric Higher Secondary School HSC 76.6% 2023-2024 \nPMG Matric Higher Secondary School SSLC PASS 2021-2022 \n \nPROJECTS \n \n Scholarship Finder \nA full-stack web application to help students discover and manage scholarship opportunities. Features user authentication, admin \n dashboard for scholarship management, and a comprehensive search system. \n \n Technologies Used: Express.js, MongoDB, Mongoose, JWT, Bcrypt , CORS, React, React Router, Axios , Tailwind CSS, \nContext API \n \nCERTIFICATIONS \n \nCertified in Completion of C Programming Training IIT Bombay \nDesign Thinking - A Primer NPTEL \nProgramming In Java NPTEL \n ACHIEVEMENTS \n \nCodeChef -solved 30+ problems \nSkillRack -solved 349+ problems \n \nSKILLS \n \nProgramming Languages C | C++| Python | Java \n Web Technologies HTML | CSS | JavaScript \nTechnical Data Structures and Algorithms | OOPS \nTools Canva | GitHub | OpenAI",
+    "question": "What certification did Lalit receive from IIT Bombay?",
+    "answer": "Certified in Completion of C Programming Training",
+    "evidence": "Certified in Completion of C Programming Training IIT Bombay"
+  }
+]

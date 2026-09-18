@@ -1,0 +1,19 @@
+{
+  "spec": {
+    "corpus_sha256": "59748c7c442d64cd215958a27474d01f853e39e79b5105231ec3deb1fe715642",
+    "tokenizer_sha256": "69ef5ae5541a28fe2f499af3973cbfbaee1b264b8469601448e210e6a2cafad2",
+    "train_cap": 20000000,
+    "validation_cap": 200000,
+    "dtype": "uint16"
+  },
+  "files": {
+    "train.bin": {
+      "tokens": 20000000,
+      "sha256": "5bb75331d40cb528618c9ec7257954f42e1362eb22a7f9a717e84ab5e57423ea"
+    },
+    "validation.bin": {
+      "tokens": 200000,
+      "sha256": "dfa2b82d0239a3e503472afbd7441b59b2d7391533a16f3d02ead80e2608ae02"
+    }
+  }
+}

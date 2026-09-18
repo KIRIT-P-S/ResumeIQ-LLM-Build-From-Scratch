@@ -1,0 +1,29 @@
+{
+  "dataset": "michaelozon/candidate-matching-synthetic",
+  "configuration": "default",
+  "resume_split": "resumes",
+  "public_train_indices": [
+    500,
+    9000
+  ],
+  "public_validation_indices": [
+    200,
+    500
+  ],
+  "public_test_indices": [
+    0,
+    200
+  ],
+  "counts": {
+    "combined_training": 69055,
+    "public_validation": 2400,
+    "real_validation": 108,
+    "public_test": 1600
+  },
+  "files": {
+    "train.jsonl": "4c1af620c05216f7c9c4cf6aaf7bb62dc36fc5fcb1a6dc2589b59b10fd88e014",
+    "validation_public.jsonl": "84139c0a8b66f00ef1bb517523f5aa904584553b369ca1a50a8a80914be690c8",
+    "validation_real.jsonl": "beec344f571865fabfbd3b9cd4e1fa5ee89b00c55f9cfd6a07e9edb59865735d",
+    "test_public_heldout.jsonl": "a8093945575d7382bf2f80cbbbd8e6ffb79c5e95bfbddf8255d624fa53492781"
+  }
+}

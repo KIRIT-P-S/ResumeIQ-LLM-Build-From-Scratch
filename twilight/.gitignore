@@ -1,0 +1,21 @@
+# Large model files
+*.pt
+*.bin
+*.safetensors
+*.npz
+
+# Large data files
+scratch_resume_sft_v2_data/train.jsonl
+scratch_resume_sft_v3_data/train.jsonl
+scratch_resume_sft_v3_data/train_exact.jsonl
+scratch_resume_lm_pilot/train_text.jsonl
+scratch_resume_lm_pilot/validation_text.jsonl
+
+# Video files
+*.mp4
+
+# Optimizer checkpoints
+optimizer.pt
+
+# IDE server
+../.antigravity-ide-server/

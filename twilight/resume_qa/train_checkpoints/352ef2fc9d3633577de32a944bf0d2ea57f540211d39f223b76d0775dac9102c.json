@@ -1,0 +1,18 @@
+[
+  {
+    "student_id": "Student_0160",
+    "source": "Student_0160/Vignesh V I (24AD245)_.pdf",
+    "context": "CERTIFICATE\nTONY CALEB DEVADAS\nCHIEF EXECUTIVE OFFICER\nOF INTERNSHIP\nThis Certificate is Presented To :\nwww.infoziant.com\n India\nUSA\nA SOC 2 | ISO 27001:2022 Certified Company\nVignesh V I\nThis is to certify that Mr. Vignesh V I (24AD245), a student of the Department of \nArtificial Intelligence and Data Science (AI & DS) at Sri Eshwar College of Engineering, \nhas successfully completed a MERN Stack Internship at Infoziant. \nDuring the internship, he worked on a capstone project titled \n“Online Retail Performance Analyser” and demonstrated strong technical skills,\ncommitment, and enthusiasm towards learning. The internship was carried out from \n1st December 2025 to 19th December 2025 (16 days). We appreciate his efforts and wish him\nsuccess in his future endeavors.\n AJUSHA V L\n INDUSTRY EXPERT",
+    "question": "What certificate did Tony Caleb Devadas receive?",
+    "answer": "CHIEF EXECUTIVE OFFICER OF INTERNSHIP",
+    "evidence": "CHIEF EXECUTIVE OFFICER OF INTERNSHIP"
+  },
+  {
+    "student_id": "Student_0160",
+    "source": "Student_0160/Vignesh V I (24AD245)_.pdf",
+    "context": "CERTIFICATE\nTONY CALEB DEVADAS\nCHIEF EXECUTIVE OFFICER\nOF INTERNSHIP\nThis Certificate is Presented To :\nwww.infoziant.com\n India\nUSA\nA SOC 2 | ISO 27001:2022 Certified Company\nVignesh V I\nThis is to certify that Mr. Vignesh V I (24AD245), a student of the Department of \nArtificial Intelligence and Data Science (AI & DS) at Sri Eshwar College of Engineering, \nhas successfully completed a MERN Stack Internship at Infoziant. \nDuring the internship, he worked on a capstone project titled \n“Online Retail Performance Analyser” and demonstrated strong technical skills,\ncommitment, and enthusiasm towards learning. The internship was carried out from \n1st December 2025 to 19th December 2025 (16 days). We appreciate his efforts and wish him\nsuccess in his future endeavors.\n AJUSHA V L\n INDUSTRY EXPERT",
+    "question": "What was Vignesh V I's role during his internship at Infoziant?",
+    "answer": "He worked on a capstone project titled ‘Online Retail Performance Analyser’.",
+    "evidence": "he worked on a capstone project titled “Online Retail Performance Analyser”"
+  }
+]

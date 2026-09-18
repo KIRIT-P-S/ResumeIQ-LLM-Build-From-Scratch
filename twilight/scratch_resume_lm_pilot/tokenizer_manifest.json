@@ -1,0 +1,17 @@
+{
+  "spec": {
+    "vocab_size": 32000,
+    "documents": 5000,
+    "corpus_sha256": "fd92b91a17abde1bf3ef630e76f7fbb1056ccd0914c370e2348fb8d3444f1a3f",
+    "special": [
+      "<|pad|>",
+      "<|unk|>",
+      "<|bos|>",
+      "<|eos|>",
+      "<|system|>",
+      "<|user|>",
+      "<|assistant|>"
+    ]
+  },
+  "sha256": "69ef5ae5541a28fe2f499af3973cbfbaee1b264b8469601448e210e6a2cafad2"
+}

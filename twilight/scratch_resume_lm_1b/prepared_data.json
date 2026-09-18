@@ -1,0 +1,25 @@
+{
+  "spec": {
+    "source": "HuggingFaceFW/fineweb-edu",
+    "config": "sample-10BT",
+    "revision": "87f09149ef4734204d70ed1d046ddc9ca3f2b8f9",
+    "max_document_chars": 20000,
+    "split": "sha256(text) modulo 20 == 0 is validation",
+    "tokenizer_sha256": "69ef5ae5541a28fe2f499af3973cbfbaee1b264b8469601448e210e6a2cafad2",
+    "train_target": 1000000000,
+    "validation_target": 1000000,
+    "dtype": "<u2"
+  },
+  "files": {
+    "train.bin": {
+      "tokens": 1000000000,
+      "documents": 1077290,
+      "sha256": "6b5f5d1a82134beffe9acf9e57b9ca08b177c2640340e13de0f1a79b7cb455bd"
+    },
+    "validation.bin": {
+      "tokens": 1000000,
+      "documents": 1084,
+      "sha256": "150c1e31b6419def5d4838856276b75acb3d3adea0b2089523a544608103389c"
+    }
+  }
+}

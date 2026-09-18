@@ -1,0 +1,19 @@
+{
+  "spec": {
+    "source": "HuggingFaceFW/fineweb-edu",
+    "config": "sample-10BT",
+    "train_docs": 30000,
+    "validation_docs": 1000,
+    "max_document_chars": 20000,
+    "split": "sha256(text) modulo 20 == 0 is validation"
+  },
+  "revision": "87f09149ef4734204d70ed1d046ddc9ca3f2b8f9",
+  "counts": {
+    "train": 30000,
+    "validation": 1000
+  },
+  "sha256": {
+    "train_text.jsonl": "fd92b91a17abde1bf3ef630e76f7fbb1056ccd0914c370e2348fb8d3444f1a3f",
+    "validation_text.jsonl": "ba9318ceea0552589dff921d87c07f15953500e10003c093a18bd3e30f19f8d1"
+  }
+}
